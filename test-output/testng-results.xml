@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17578" started-at="2022-09-20T17:01:42 CEST" finished-at="2022-09-20T17:02:00 CEST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17578" started-at="2022-09-20T17:01:42 CEST" finished-at="2022-09-20T17:02:00 CEST">
+      <class name="d19_09_2022.BootstrapTableTests">
+        <test-method status="PASS" signature="setup()[pri:0, instance:d19_09_2022.BootstrapTableTests@5c18298f]" name="setup" is-config="true" duration-ms="1989" started-at="2022-09-20T17:01:42 CEST" finished-at="2022-09-20T17:01:44 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:d19_09_2022.BootstrapTableTests@5c18298f]" name="beforeMethod" is-config="true" duration-ms="3743" started-at="2022-09-20T17:01:44 CEST" finished-at="2022-09-20T17:01:48 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="editRow()[pri:10, instance:d19_09_2022.BootstrapTableTests@5c18298f]" name="editRow" duration-ms="1447" started-at="2022-09-20T17:01:48 CEST" finished-at="2022-09-20T17:01:49 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editRow -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:d19_09_2022.BootstrapTableTests@5c18298f]" name="beforeMethod" is-config="true" duration-ms="1941" started-at="2022-09-20T17:01:49 CEST" finished-at="2022-09-20T17:01:51 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="deleteRow()[pri:20, instance:d19_09_2022.BootstrapTableTests@5c18298f]" name="deleteRow" duration-ms="6090" started-at="2022-09-20T17:01:51 CEST" finished-at="2022-09-20T17:01:58 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteRow -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:d19_09_2022.BootstrapTableTests@5c18298f]" name="beforeMethod" is-config="true" duration-ms="1176" started-at="2022-09-20T17:01:58 CEST" finished-at="2022-09-20T17:01:59 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="takeAScreenshot()[pri:30, instance:d19_09_2022.BootstrapTableTests@5c18298f]" name="takeAScreenshot" duration-ms="590" started-at="2022-09-20T17:01:59 CEST" finished-at="2022-09-20T17:01:59 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeAScreenshot -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:d19_09_2022.BootstrapTableTests@5c18298f]" name="afterClass" is-config="true" duration-ms="580" started-at="2022-09-20T17:01:59 CEST" finished-at="2022-09-20T17:02:00 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- d19_09_2022.BootstrapTableTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
